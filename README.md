@@ -19,3 +19,16 @@ The goal is to understand how different songs relate to each other in terms of s
 5. Word frequency analysis
 6. Sentence embeddings
 7. Clustering analysis
+
+
+
+## Technologies
+
+Python  
+Pandas  
+NumPy  
+NLTK  
+Scikit-learn  
+Sentence Transformers  
+Matplotlib  
+Seaborn
